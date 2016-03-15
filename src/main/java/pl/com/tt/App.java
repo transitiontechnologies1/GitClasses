@@ -13,7 +13,7 @@ public class App
 NIE ZBUDUJESZ KODU!!!	
     public static void main( String[] args )
     {
-    	logger.info("application started LSTROBIN modification!");
+    	logger.info("conflict indocation LSTROBIN");
         
 		int i = 5;
 		System.out.println(iiaaaaa);
