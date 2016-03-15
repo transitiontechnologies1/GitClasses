@@ -15,6 +15,9 @@ public class App
     {
     	logger.info("application started!");
         
+		int i = 5;
+		System.out.println(i);
+		
     	logger.info("application end");
     }
 }
