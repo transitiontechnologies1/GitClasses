@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 public class App 
 {
 	private static Logger logger = LogManager.getLogger(App.class.getName());
-	
+NIE ZBUDUJESZ KODU!!!	
     public static void main( String[] args )
     {
     	logger.info("application started!");
