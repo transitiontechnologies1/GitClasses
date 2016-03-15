@@ -16,7 +16,7 @@ NIE ZBUDUJESZ KODU!!!
     	logger.info("application started!");
         
 		int i = 5;
-		System.out.println(i);
+		System.out.println(iiaaaaa);
 		
     	logger.info("application end");
     }
